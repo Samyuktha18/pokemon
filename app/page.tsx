@@ -22,7 +22,8 @@ export default async function Home() {
   // 3. Pass in data to PokemonGrid, show all the pokemon from API call.
 
   return (
-      <PokemonGrid pokemonList={pokemonList}/>)
+      <PokemonGrid pokemonList={pokemonList}/>
+    )
     }
     
 
